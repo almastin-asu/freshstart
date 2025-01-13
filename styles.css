@@ -532,12 +532,13 @@ footer{
     img.fullwidth{
         width:500px;  
     }
+
     picture{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
         padding-left:570px;
-        margin-top:250px;
+        margin-top:270px;
         padding-right:20px;
     }
 
@@ -577,7 +578,7 @@ footer{
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr;
         padding-right:50%;
-        margin-top:-140px;
+        margin-top:-60px;
         padding-bottom:50px;
     }
 
